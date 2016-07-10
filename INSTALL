@@ -1,0 +1,9 @@
+Building RADICAL
+
+See doc/readme-qt.rst for instructions on building RADICAL QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of RADICAL.
+
+See doc/build-*.txt for instructions on building RADICALd,
+the intended-for-services, no-graphical-interface, reference
+implementation of RADICAL.
